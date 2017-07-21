@@ -82,5 +82,8 @@
   <ItemGroup>
     <None Include="Resources\Logomakr_0nEidk.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\software-development.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
